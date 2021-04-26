@@ -1,0 +1,7 @@
+dsn = "host=localhost user=db_user password=db_pass dbname=db_name sslmode=disable TimeZone=Asia/Kolkata"
+server_address = ":8080"
+log_query = false
+discord_bot_token = "Bot BOT_TOKEN"
+news_refresh_minutes = 30 # half hour
+action_refresh_minutes = 86400 # 24 hours
+workers = 2
